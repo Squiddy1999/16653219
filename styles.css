@@ -1,0 +1,32 @@
+body {
+	background-color:#1C2833
+}
+
+h1 {
+	font-family: 'K2D', sans-serif;
+	text-align:center;
+	color:#82E0AA;
+	background-color:#273746 
+}
+
+p {
+	font-family: 'K2D', sans-serif;
+	text-align:center;
+	color:#82E0AA;
+	background-color:#273746 
+}
+
+a {
+	font-family: 'K2D', sans-serif;
+	text-align:center;
+	color:#E67E22;
+	background-color:#273746;
+	font-size:1em;
+	font-weight:bold;
+}
+
+img {
+	display:block;
+	margin-right: auto;
+	margin-left: auto;
+}
